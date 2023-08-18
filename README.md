@@ -23,19 +23,19 @@
 <!-- Coding Profiles -->
 <h3 align="center">Coding Profiles</h3>
 <p align="center">
-  <a href="https://www.leetcode.com/rajgopalhota">
+  <a href="https://leetcode.com/rajgopalhota/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=40&logoHeight=40" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/rajgopalhota">
+  <a href="https://www.codechef.com/users/klu2100032351">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&logoWidth=40&logoHeight=40" alt="CodeChef" />
   </a>
-  <a href="https://www.hackerrank.com/rajgopalhota">
+  <a href="https://www.hackerrank.com/h2100032351">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&logoWidth=40&logoHeight=40" alt="HackerRank" />
   </a>
   <a href="https://codeforces.com/profile/rajgopalhota">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=40&logoHeight=40" alt="Codeforces" />
   </a>
-  <a href="https://atcoder.jp/users/rajgopalhota">
+  <a href="https://atcoder.jp/users/klu2100032351">
     <img src="https://img.shields.io/badge/AtCoder-663300?style=for-the-badge&logo=atcoder&logoColor=white&logoWidth=40&logoHeight=40" alt="AtCoder" />
   </a>
   <!-- Add more coding profile badges here -->
