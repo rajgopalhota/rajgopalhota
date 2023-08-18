@@ -3,7 +3,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="YOUR_PROFILE_PICTURE_URL" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
+  <img src="raja.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 
@@ -18,9 +18,33 @@
 
 
 <!-- Introduction -->
-<p align="center">Passionate coder | Cybersecurity enthusiast | Coffee addict ☕ | Exploring the realms of technology</p>
+<p align="center" style="font-family: 'Times New Roman', serif;">Passionate coder | Cybersecurity enthusiast | Coffee addict ☕ | Exploring the realms of technology</p>
+
+<!-- Coding Profiles -->
+<h3 align="center">Coding Profiles</h3>
+<p align="center">
+  <a href="https://www.leetcode.com/rajgopalhota">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=40&logoHeight=40" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/rajgopalhota">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&logoWidth=40&logoHeight=40" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/rajgopalhota">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&logoWidth=40&logoHeight=40" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/rajgopalhota">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=40&logoHeight=40" alt="Codeforces" />
+  </a>
+  <a href="https://atcoder.jp/users/rajgopalhota">
+    <img src="https://img.shields.io/badge/AtCoder-663300?style=for-the-badge&logo=atcoder&logoColor=white&logoWidth=40&logoHeight=40" alt="AtCoder" />
+  </a>
+  <!-- Add more coding profile badges here -->
+</p>
+
+
 
 <!-- Connect with Me -->
+<h3 align="center">Connect with me!</h3>
 <p align="center">
   <a href="https://linkedin.com/in/rajgopalhota">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 20px;" />
@@ -46,7 +70,10 @@
 
 <!-- About Me -->
 <h3 align="center">About Me</h3>
-<p align="center">I'm a self-taught developer and cybersecurity enthusiast. When I'm not coding, you'll find me exploring new coffee shops or diving into the world of ethical hacking. My mission is to contribute positively to the tech community and help secure the digital world.</p>
+<p align="left">
+  I'm a self-taught developer and cybersecurity enthusiast. When I'm not coding, you'll find me exploring new coffee shops or diving into the world of ethical hacking. Currently, I'm a student at KL University, where I'm expanding my knowledge and skills in various tech domains.
+</p>
+
 
 <!-- Tech Stack -->
 <h3 align="center">Tech Stack</h3>
@@ -70,8 +97,6 @@
   <!-- Add more technologies here -->
 </p>
 
-
-
 <!-- Top Languages -->
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajgopalhota&show_icons=true&locale=en&layout=compact" alt="rajgopalhota" /></p>
 
@@ -80,9 +105,6 @@
 
 <!-- GitHub Streak Stats -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajgopalhota" alt="rajgopalhota" /></p>
-
-
-
 
 <!-- Footer -->
 <p align="center">Thanks for visiting my profile! Feel free to connect and explore my projects. Have a great day!</p>
