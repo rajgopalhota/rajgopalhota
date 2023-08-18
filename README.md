@@ -12,4 +12,4 @@ Welcome to My GitHub Profile! 🖥️
 
 Stay tuned for more hacking adventures! 🕵️‍♂️💻
 
-![Terminal Typing Animation](URL_TO_YOUR_GIF_OR_VIDEO)
+![Terminal Typing Animation](https://lukeroberts.tv/blog/wp-content/uploads/2019/05/gif1.gif)
