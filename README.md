@@ -1,41 +1,43 @@
-<!-- Title -->
-<h1 align="center">👋 Hey, I'm Rajgopal Hota</h1>
-
-<!-- Badges -->
+<!-- Header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajgopalhota&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rajgopalhota?label=Followers&style=social" alt="Followers" />
+  <img src="https://raw.githubusercontent.com/rajgopalhota/rajgopalhota/master/assets/header.png" alt="Header" width="100%">
 </p>
 
-<!-- Introduction -->
-<p align="center">Passionate coder | Cybersecurity enthusiast | Coffee addict ☕ | Exploring the realms of technology</p>
-
-<!-- Connect with Me -->
+<!-- Typing Animation -->
 <p align="center">
-  <a href="https://linkedin.com/in/rajgopalhota"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/rajgopalhota"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://rajgopalhota.com"><img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
+  <img src="https://raw.githubusercontent.com/rajgopalhota/rajgopalhota/master/assets/typing-animation.gif" alt="Typing Animation" width="100%">
 </p>
 
-<!-- About Me -->
-<h3 align="center">About Me</h3>
-<p align="center">I'm a self-taught developer and cybersecurity enthusiast. When I'm not coding, you'll find me exploring new coffee shops or diving into the world of ethical hacking. My mission is to contribute positively to the tech community and help secure the digital world.</p>
-
-<!-- Tech Stack -->
-<h3 align="center">Tech Stack</h3>
+<!-- Divider -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <!-- Add more technologies here -->
+  <img src="https://raw.githubusercontent.com/rajgopalhota/rajgopalhota/master/assets/divider.png" alt="Divider" width="100%">
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats</h3>
+<!-- Your provided code -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
+    <h1 align="center">Hi 👋, I'm Rajgopal Hota</h1>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajgopalhota&label=Profile%20views&color=0e75b6&style=flat" alt="rajgopalhota" /> </p>
+
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+        <a href="https://linkedin.com/in/rajgopalhota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajgopalhota" height="30" width="40" /></a>
+        <a href="https://twitter.com/rajgopalhota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajgopalhota" height="30" width="40" /></a>
+        <!-- Add other social media links here -->
+    </p>
+
+    <!-- Add the rest of your content here -->
+
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajgopalhota&show_icons=true&locale=en&layout=compact" alt="rajgopalhota" /></p>
+
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajgopalhota&show_icons=true&locale=en" alt="rajgopalhota" /></p>
+
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajgopalhota&" alt="rajgopalhota" /></p>
+</div>
+
+<!-- Divider -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajgopalhota&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/rajgopalhota/rajgopalhota/master/assets/divider.png" alt="Divider" width="100%">
 </p>
 
 <!-- Footer -->
 <p align="center">Thanks for visiting my profile! Feel free to connect and explore my projects. Have a great day!</p>
-
