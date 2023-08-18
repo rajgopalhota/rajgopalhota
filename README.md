@@ -1,17 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        /* styles.css */
-.background {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  padding: 20px;
-  border-radius: 10px;
-  color: white;
-}
-/* Add more styles here */
-
-    </style>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
   <div class="background">
