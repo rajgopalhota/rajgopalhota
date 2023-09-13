@@ -98,13 +98,16 @@
 </p>
 
 <!-- Top Languages -->
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajgopalhota&show_icons=true&locale=en&layout=compact" alt="rajgopalhota" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajgopalhota&show_icons=true&locale=en&layout=compact" alt="rajgopalhota" /></p>
 
 <!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajgopalhota&show_icons=true&locale=en" alt="rajgopalhota" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rajgopalhota&show_icons=true&locale=en" alt="rajgopalhota" /></p>
 
 <!-- GitHub Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajgopalhota" alt="rajgopalhota" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajgopalhota" alt="rajgopalhota" /></p>
 
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/rajgopalhota?theme=unicorn" />
+</p>
 <!-- Footer -->
 <p align="center">Thanks for visiting my profile! Feel free to connect and explore my projects. Have a great day!</p>
