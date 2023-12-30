@@ -1,6 +1,10 @@
+<body style="
+    background-image: linear-gradient(60deg, #1a2026 0%, #2e363f 100%);
+    color: white;
+">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rajgopalhota.rajgopalhota" />
 
-<img align="center" src="./mainhead.gif">
+<img align="center" src="./mainhead.gif" style="border-radius: 20px; margin-top: 5px; box-shadow: 0 2px 10px 5px rgba(0, 0, 0, 0.5);">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RAJGOPAL+HOTA!;" />
@@ -8,10 +12,20 @@
 
 <h3 align="center">A passionate software developer from Hyderabad</h3>
 
-<br/>
-<div align="left">
+<div style="
+      background-image: linear-gradient(#1f0336d4, #27011aa9);
+      border: 1px solid rgba(255, 255, 255, 0.5);
+      padding: 10px;
+      margin-bottom: 20px;
+      border-radius: 20px;
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      box-shadow: 0 2px 10px 5px rgba(0, 0, 0, 0.5);
+">
 
-<img align="right" alt="Coding" width="200" src="./raja.png">
+  <img align="right" alt="Coding" width="100" height="100" style="border: 4px solid aliceblue; padding: 2px; border-radius:50%;" src="./raja.png">
+  <div>
 
 🔭 I’m currently working on **Mystelio**
 
@@ -21,6 +35,7 @@
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
+  </div>
 </div>
  
 <div align="center"> 
@@ -35,7 +50,7 @@
   </a>
 </div>
 
- <hr/>
+ <hr style="border-color: white;"/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -45,7 +60,7 @@
 </div>
 
 <br/>
-<hr/>
+<hr style="border-color: white;"/>
 
 <h2 align="center">⚒️ Coding profiles ⚒️</h2>
 <br/>
@@ -68,7 +83,7 @@
   <!-- Add more coding profile badges here -->
 </p>
 
-<hr/>
+<hr style="border-color: white;"/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -85,3 +100,4 @@
 <br/>
 <!-- Footer -->
 <h4 align="center">Thanks for visiting my profile! Feel free to connect and explore my projects. Have a great day! ❤️</h4>
+</body>
