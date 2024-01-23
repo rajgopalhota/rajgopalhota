@@ -94,6 +94,13 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rajgopalhota&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rajgopalhota&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br/>
+  <h3 id="top-contributed-repo">🔝 Top Contributed Repo</h3>
+  <p><img
+    src="https://github-contributor-stats.vercel.app/api?username=rajgopalhota&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" />
+  </p>
+    <h3 id="random-dev-quote">✍️ Random Dev Quote</h3>
+  <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" /></p>
 
 </div>
 
