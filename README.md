@@ -1,16 +1,12 @@
 # Rajgopal Hota
 
-<p align="center">
+<p align="right">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=rajgopalhota.rajgopalhota" alt="Visitor Count Badge"/>
 </p>
-
 <p align="center">
-    <img src="./mainhead.gif" alt="Main Header">
+  <img src="./mainhead.gif" alt="Main Header">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RAJGOPAL+HOTA!;" alt="Typing SVG">
 </p>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RAJGOPAL+HOTA!;" alt="Typing SVG">
-</h1>
 
 <h3 align="center">A passionate software developer from Hyderabad, India</h3>
 
@@ -45,14 +41,9 @@
   </a>
 </div>
 
-
----
-
 ## 📝 Profile Summary
 
-Full Stack Developer and Cybersecurity enthusiast with a strong foundation in MERN stack and Spring Boot. Proven ability to develop web designs and applications, demonstrated by winning the JPMorgan Chase Hackathon and interning at Barclays. Eager to contribute to innovative projects and rapidly adapt to emerging technologies.
-
----
+Full Stack Developer and Cybersecurity enthusiast with expertise in MERN, Spring Boot, and a passion for innovation. Proven track record through winning JP Morgan's Hackathon and enhancing developer efficiency at Barclays. I am eager to contribute to cutting-edge projects, leveraging my skills in full stack development, machine learning, and real-time web applications.
 
 ## 💼 Experience & Achievements
 
@@ -71,8 +62,6 @@ Full Stack Developer and Cybersecurity enthusiast with a strong foundation in ME
 **Swecha, Social Internship | June 2022**
 
 - Played a key role in developing an interactive web application for a social initiative, utilizing **HTML** and **CSS** as a fresher.
-
----
 
 <h2>🧑‍💻 Languages-Frameworks-Tools</h2>
 <div align="center">
@@ -101,8 +90,6 @@ Full Stack Developer and Cybersecurity enthusiast with a strong foundation in ME
   </a>
 </p>
 
----
-
 ## 🛠️ Technical Skills
 
 - **Programming Languages:** C, Java, JavaScript, TypeScript, Python
@@ -110,15 +97,11 @@ Full Stack Developer and Cybersecurity enthusiast with a strong foundation in ME
 - **Databases Used:** MySQL, MongoDB, Oracle, PostgreSQL
 - **Other Interests:** Computer Networks, Operating Systems, Git, Cryptography & Security, HTML, CSS
 
----
-
 ## 🏆 Global Certifications
 
 - **AWS Certified Cloud Practitioner** | Valid till: July 2027
 - **Frontend Developer (React) & Software Engineer by HackerRank** | Valid till: Lifetime
 - **Red Hat Certified Enterprise Application Developer** | Valid till: August 2026
-
----
 
 ## 🔍 Star Projects
 
@@ -143,15 +126,11 @@ Full Stack Developer and Cybersecurity enthusiast with a strong foundation in ME
 
 - Built a bank app with **Spring Boot** for Developing APIs and **React.js** featuring role-based user verification, payments, and expense tracking.
 
----
-
 ## 👔 Positions of Responsibility
 
 **Web Developer, KL University CSE Grand Hackathon | July 2023**
 
 - Built and maintained the web application for KL University's Hackathon using **Django**, **HTML**, and **CSS**, enhancing web architecture to facilitate 1,600+ students and 150+ faculty.
-
----
 
 ## 📚 Education
 
@@ -165,8 +144,6 @@ Full Stack Developer and Cybersecurity enthusiast with a strong foundation in ME
 - XII - Mathematics, Physics, Chemistry
 - **Marks:** 950/1000
 
----
-
 ## ⚡ Stats
 
 <p align="center">
@@ -177,12 +154,12 @@ Full Stack Developer and Cybersecurity enthusiast with a strong foundation in ME
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rajgopalhota&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
   <br/>
-  <h3 id="top-contributed-repo">🔝 Top Contributed Repo</h3>
-  <p>
+  <h3 id="top-contributed-repo" align="center">🔝 Top Contributed Repo</h3>
+  <p align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=rajgopalhota&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
   </p>
-  <h3 id="random-dev-quote">✍️ Random Dev Quote</h3>
-  <p>
+  <h3 align="center">✍️ Random Dev Quote</h3>
+  <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random Dev Quote" />
   </p>
 </p>
