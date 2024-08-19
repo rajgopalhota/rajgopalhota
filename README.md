@@ -1,5 +1,3 @@
-# Rajgopal Hota
-
 <p align="right">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=rajgopalhota.rajgopalhota" alt="Visitor Count Badge"/>
 </p>
