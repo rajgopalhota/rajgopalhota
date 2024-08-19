@@ -74,7 +74,7 @@ Full Stack Developer and Cybersecurity enthusiast with a strong foundation in ME
 
 ---
 
-<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>🧑‍💻 Languages-Frameworks-Tools</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,postgres,postman,supabase" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,django,flask,github" />
@@ -82,8 +82,7 @@ Full Stack Developer and Cybersecurity enthusiast with a strong foundation in ME
 
 <br/>
 
-<h2>⚒️ Coding profiles ⚒️</h2>
-<br/>
+<h2>💻 Coding profiles</h2>
 <p align="center">
   <a href="https://leetcode.com/rajgopalhota/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=40&logoHeight=40" alt="LeetCode" />
