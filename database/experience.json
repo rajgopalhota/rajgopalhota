@@ -1,0 +1,120 @@
+{
+  "experiences": [
+    {
+      "date": "SEP 2021",
+      "icon": "FaHome",
+      "title": "Joined KL University",
+      "description": "In 2021 September I have joined KL University and started my computer science and engineering career! I have started learning Java and C programming. Participated in various coding platforms."
+    },
+    {
+      "date": "MAR 2022",
+      "icon": "FaNetworkWired",
+      "title": "Introduced to web development",
+      "description": "I have gained interest in web development when I have participated in a social internship by Swecha AP."
+    },
+    {
+      "date": "JUL 2022",
+      "icon": "FaPython",
+      "title": "Started Django",
+      "description": "Thanks to Ashesh sir, because of whom I have explored many new techniques and gained foundation in Python, HTML, CSS, JS, Flask and Django. Participated in hackathon for first time."
+    },
+    {
+      "date": "OCT 2022",
+      "icon": "FaRobot",
+      "title": "Gained interest in Cyber security",
+      "description": "At this time I have introduced to cyber security concepts, Kali Linux etc."
+    },
+    {
+      "date": "JAN 2023",
+      "icon": "FaReact",
+      "title": "Started MERN stack",
+      "description": "Thanks to Mohammed Gouse sir, because of whom I have gained interest in MERN stack, learnt JS and developed a Ecommerce website during participation in Hackathon in this semester."
+    },
+    {
+      "date": "Apr 2023",
+      "icon": "FaJava",
+      "title": "Started Enterprise programming, JFSD",
+      "description": "Under guidance of Ashesh sir, I have earned a Redhat certification for Enterprise application Developers, A global certification. Started working on Banking application using Spring boot and react."
+    },
+    {
+      "date": "Oct 2023",
+      "icon": "SiBarclays",
+      "title": "Cracked interview at Barclays for a summer Internship",
+      "description": "I have attended my first ever interview. Till this date I have made many projects and was good in DBMS, DSA and web development etc."
+    },
+    {
+      "date": "Jan 2024",
+      "icon": "FaListCheck",
+      "title": "Restarted DSA in Java - revision",
+      "description": "Started revising the concepts of DSA using Java with the help of CRT and Striver."
+    },
+    {
+      "date": "Jun 2024",
+      "icon": "SiBarclays",
+      "title": "Joined Barclays as an intern",
+      "description": "First time introduced to a corporate world especially banking sector."
+    },
+    {
+      "date": "Jun 2024",
+      "icon": "JPMC",
+      "title": "JPMC Hackathon winner",
+      "description": "Won the JPMC Code for good hackathon conducted at Hyderabad. It was an amazing experience."
+    },
+    {
+      "date": "Jul 2024",
+      "icon": "SiBarclays",
+      "title": "Completed internship at Barclays",
+      "description": "Worked on springboot and react js for developing a tool for internal usage at barclays, got appreciations from all tech leads, directors and managers."
+    },
+    {
+      "date": "Aug 2024",
+      "icon": "FaRobot",
+      "title": "Completed the RPA Club's site",
+      "description": "Worked on MERN stack for developing a robust application for RPA clubs users and managers with role based access and a clean UI."
+    }
+  ],
+  "testimonial": [
+    {
+      "id": 1,
+      "quote": "It was pleasure working with Rajgopal on developing a website for KL University's hackathons. His dedication and innovative solutions greatly contributed to the success of the project. His work was truly commendable!",
+      "imageSrc": "/assets/testimonials/klu.jpg",
+      "source": "KL University"
+    },
+    {
+      "id": 2,
+      "quote": "Team of Rajgopal, Manoj and Rajendra have done a fabulous job and I have seen how they have grown from simple web page to a complete website with many features. Keep up the good work and I am sure you guys will make it big very soon!!!",
+      "imageSrc": "/assets/testimonials/harikiran.jpeg",
+      "source": "Mr.Hari Kiran Vege - Dean Academics"
+    },
+    {
+      "id": 3,
+      "quote": "I want to convey my heartfelt thanks for making Y21 EP Hackathon a grand success. The effort you put into the web application is awesome and brings immense happiness.",
+      "imageSrc": "/assets/testimonials/ashesh.jpeg",
+      "source": "Dr. K. Ashesh"
+    },
+    {
+      "id": 7,
+      "quote": "The RPA club website was impressive with the functionalities and UI, thanks for your work from Team RPA",
+      "imageSrc": "/assets/testimonials/thanmai.jpg",
+      "source": "K. Thanmai - RPA Club president"
+    },
+    {
+      "id": 4,
+      "quote": "Collaborating with Rajgopal in the Autobots team was an incredible experience. His expertise and commitment to excellence played a crucial role in achieving our project goals. We look forward to working together again!",
+      "imageSrc": "/assets/testimonials/autobot.jpeg",
+      "source": "Team Autobots"
+    },
+    {
+      "id": 5,
+      "quote": "As a team lead for a Smart India Hackathon project, Rajgopal showcased exceptional leadership skills. His ability to organize and guide the team resulted in a successful and impactful project. It was a pleasure working under his leadership!",
+      "imageSrc": "/assets/testimonials/sih.jpg",
+      "source": "Smart India Hackathon"
+    },
+    {
+      "id": 6,
+      "quote": "Rajgopal's contribution to the SDP-01 project in Django was truly commendable, As it was first time we had a new and wonderful experience in developing application",
+      "imageSrc": "/assets/testimonials/rakesh.jpg",
+      "source": "Rakesh Bandaru"
+    }
+  ]
+}

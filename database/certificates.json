@@ -1,0 +1,112 @@
+[
+  {
+    "title": "JPMC CodeForGood'24 Hackathon Winner",
+    "link": "https://www.linkedin.com/posts/rajgopalhota_hackathon-codeforgood-jpmc-activity-7211244305212981248-2AS4",
+    "img": "/assets/badges/jpmc.jpg"
+  },
+  {
+    "title": "REDHAT EX183 Certified",
+    "link": "https://www.credly.com/badges/45bfd846-8e1e-45a9-b08c-788bae8dcc7b/public_url",
+    "img": "/assets/badges/red-hat.png"
+  },
+  {
+    "title": "AWS Cloud practitioner",
+    "link": "https://www.credly.com/badges/0ee837de-4bb4-4dca-b7d6-f0ede238dc82/public_url",
+    "img": "/assets/badges/cloud-practitioner.png"
+  },
+  {
+    "title": "META Frontend Developer",
+    "link": "https://www.credly.com/badges/8e81993d-aae2-4cee-92c3-7a4e3b0a8573/public_url",
+    "img": "/assets/badges/meta.png"
+  },
+  {
+    "title": "Microsoft AI 900",
+    "link": "https://www.credly.com/badges/7b1d0f11-ccd9-49e9-9832-ae8872f3227b/public_url",
+    "img": "/assets/badges/ai-fundamentals.png"
+  },
+  {
+    "title": "Leetcode 2023 Annual",
+    "link": "https://leetcode.com/rajgopalhota/",
+    "img": "/assets/badges/leetcode.gif"
+  },
+  {
+    "title": "Leetcode 2023 100 Days",
+    "link": "https://leetcode.com/rajgopalhota/",
+    "img": "/assets/badges/2023-100.gif"
+  },
+  {
+    "title": "Leetcode 2022 50 Days",
+    "link": "https://leetcode.com/rajgopalhota/",
+    "img": "/assets/badges/2022-annual-50.gif"
+  },
+  {
+    "title": "Inroduction to Cybersecurity",
+    "link": "https://www.credly.com/badges/8fab6e51-caaf-4e95-96d9-a3c55a12a707/public_url",
+    "img": "/assets/badges/introduction-to-cybersecurity.png"
+  },
+  {
+    "title": "Cybersecurity Essentials",
+    "link": "https://www.credly.com/badges/cfa54f1f-79e9-4678-82f7-4a16934c3774/public_url",
+    "img": "/assets/badges/cybersecurity-essentials.png"
+  },
+  {
+    "title": "Demestyfying Networking - NPTEL",
+    "link": "https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22CS112S2363080309009180",
+    "img": "/assets/badges/Networking.jpg"
+  },
+  {
+    "title": "Oracle Cloud Infrastructure",
+    "link": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=89CBC7B089B6F5CED77A0CB576C1A3A0664A0C990FA389F774155F601ADC2B92",
+    "img": "/assets/badges/oracle.png"
+  },
+  {
+    "title": "AWS Academy",
+    "link": "https://www.credly.com/badges/324ce6f1-072c-4e88-b967-09bd460f3894/public_url",
+    "img": "/assets/badges/aws-academy.png"
+  },
+  {
+    "title": "The Bits and Bytes of Computer Networking - Google",
+    "link": "https://coursera.org/verify/PSC6FH78SPG2",
+    "img": "/assets/badges/bit-google.png"
+  },
+  {
+    "title": "Introduction to Git and GitHub - Google",
+    "link": "https://coursera.org/verify/4EV6GVB4YY8P",
+    "img": "/assets/badges/github-google.png"
+  },
+  {
+    "title": " Operating Systems: Becoming a Power User - Google",
+    "link": "https://coursera.org/verify/8V842PMWNAPU",
+    "img": "/assets/badges/os-google.png"
+  },
+  {
+    "title": "Introduction to RDBMS - IBM",
+    "link": "https://coursera.org/verify/43HVVL4X8Q6N",
+    "img": "/assets/badges/rdbms-ibm.png"
+  },
+  {
+    "title": "Become a Network Administrator - Linkedin",
+    "link": "https://www.linkedin.com/learning/certificates/dcda8319fa29affd90683082f890b16f1396aaa8cd79cf651a0b3e9683f6fc82?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BYKqy626ATcKCeSv2Fr%2FNkw%3D%3D",
+    "img": "/assets/badges/network-admin.png"
+  },
+  {
+    "title": "Become a Django Developer - Linkedin",
+    "link": "https://www.linkedin.com/learning/certificates/ba6723a8b65eefee10749ab1999354092e52c8989574b58efe7cc47d8c7f5cf1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvGbszOgBQ6admYdGxgD4%2FA%3D%3D",
+    "img": "/assets/badges/django.png"
+  },
+  {
+    "title": "Juniper Cloud virtual Internship",
+    "link": "https://apschecert.eduskillsfoundation.org/pages/home/verify.php?cert=4825263fbd49c22fe110413edced3fc6",
+    "img": "/assets/badges/juniper-cloud.png"
+  },
+  {
+    "title": "Introduction to Test Driven Development - IBM",
+    "link": "https://www.coursera.org/account/accomplishments/verify/4ASK9VQ2TRTL",
+    "img": "/assets/badges/tdd-ibm.png"
+  },
+  {
+    "title": "Hacker rank Java certificate",
+    "link": "https://www.hackerrank.com/certificates/332a677853b1",
+    "img": "/assets/badges/hackerrank-java.png"
+  }
+]

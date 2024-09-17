@@ -1,0 +1,320 @@
+{
+  "extensions": [
+    {
+      "name": "Square X",
+      "url": "https://chromewebstore.google.com/detail/squarex-be-secure-anonymo/kapjaoifikajdcdehfdlmojlepfpkpoe"
+    },
+    {
+      "name": "Clear Bit",
+      "url": "https://chromewebstore.google.com/detail/clearbit-connect-free-ver/pmnhcgfcafcnkbengdcanjablaabjplo"
+    },
+    {
+      "name": "React dev tools",
+      "url": "https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi"
+    },
+    {
+      "name": "Kaspersky Protection",
+      "url": "https://kaspersky-protection"
+    },
+    {
+      "name": "Color zilla",
+      "url": "https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp"
+    },
+    {
+      "name": "Single File",
+      "url": "https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle"
+    },
+    {
+      "name": "Always active window",
+      "url": "https://chromewebstore.google.com/detail/always-active-window-alwa/ehllkhjndgnlokhomdlhgbineffifcbj"
+    },
+    {
+      "name": "Enable copy paste",
+      "url": "https://chromewebstore.google.com/detail/enable-copy-paste-ecp/fpjppnhnpnknbenelmbnidjbolhandnf"
+    },
+    {
+      "name": "CSS Peeper",
+      "url": "https://chromewebstore.google.com/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk"
+    },
+    {
+      "name": "Click and clean",
+      "url": "https://chromewebstore.google.com/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod"
+    },
+    {
+      "name": "Privacy Badger",
+      "url": "https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp"
+    },
+    {
+      "name": "Turn off the lights",
+      "url": "https://chromewebstore.google.com/detail/turn-off-the-lights/bfbmjmiodbnnpllbbbfblcplfjjepjdn"
+    },
+    {
+      "name": "Todoist for Chrome",
+      "url": "https://chromewebstore.google.com/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh"
+    },
+    {
+      "name": "Web Scraper",
+      "url": "https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn"
+    },
+    {
+      "name": "Dev Bytes",
+      "url": "https://chromewebstore.google.com/detail/devbytes-developers-news/hplbpdkajdhlggncdpdmnkjldopmoomg"
+    },
+    {
+      "name": "Responsive viewer",
+      "url": "https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb"
+    },
+    {
+      "name": "Lambda Test",
+      "url": "https://chromewebstore.google.com/detail/lambdatest/fjcjehbiabkhkdbpkenkhaahhopildlh"
+    }
+  ],
+  "aiWebsites": [
+    {
+      "name": "Taskade.com",
+      "url": "https://taskade.com"
+    },
+    {
+      "name": "theresanaiforthat.com",
+      "url": "https://theresanaiforthat.com"
+    },
+    {
+      "name": "opentools.ai",
+      "url": "https://opentools.ai"
+    },
+    {
+      "name": "undetectable.ai",
+      "url": "https://undetectable.ai"
+    },
+    {
+      "name": "copilot2trip.com",
+      "url": "https://copilot2trip.com"
+    },
+    {
+      "name": "perplexity.ai",
+      "url": "https://perplexity.ai"
+    },
+    {
+      "name": "doanything.ai",
+      "url": "https://doanything.ai"
+    },
+    {
+      "name": "jailbreakchat.com",
+      "url": "https://jailbreakchat.com"
+    },
+    {
+      "name": "covers.ai",
+      "url": "https://covers.ai"
+    },
+    {
+      "name": "match.color.io",
+      "url": "https://match.color.io"
+    },
+    {
+      "name": "Claude AI",
+      "url": "https://claude.ai/new"
+    },
+    {
+      "name": "Flow GPT",
+      "url": "https://flowgpt.com/chat/dsa-solver"
+    },
+    {
+      "name": "Phind",
+      "url": "https://www.phind.com/search?home=true"
+    },
+    {
+      "name": "Qwen",
+      "url": "https://huggingface.co/Qwen"
+    },
+    {
+      "name": "Deep seek",
+      "url": "https://chat.deepseek.com/sign_in"
+    }
+  ],
+  "researchWebsites": [
+    {
+      "name": "cpu.land",
+      "url": "https://cpu.land"
+    },
+    {
+      "name": "answerthepublic.com",
+      "url": "https://answerthepublic.com"
+    },
+    {
+      "name": "whimsical.com",
+      "url": "https://whimsical.com"
+    },
+    {
+      "name": "opentools.ai",
+      "url": "https://opentools.ai"
+    },
+    {
+      "name": "consensus.app",
+      "url": "https://consensus.app"
+    },
+    {
+      "name": "roadmap.sh",
+      "url": "https://roadmap.sh"
+    },
+    {
+      "name": "neetcode.io",
+      "url": "https://neetcode.io"
+    },
+    {
+      "name": "overapi.com",
+      "url": "https://overapi.com"
+    },
+    {
+      "name": "quickref.me",
+      "url": "https://quickref.me"
+    },
+    {
+      "name": "Interview Boss",
+      "url": "https://app.interviewboss.ai/auth"
+    },
+    {
+      "name": "Documentation",
+      "url": "https://mintlify.com/"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/"
+    }
+  ],
+  "learningGround": [
+    {
+      "name": "nextjs.org",
+      "url": "https://nextjs.org/docs"
+    },
+    {
+      "name": "react.dev",
+      "url": "https://react.dev/learn"
+    },
+    {
+      "name": "typescriptlang.org",
+      "url": "https://typescriptlang.org"
+    },
+    {
+      "name": "GeeksForGeeks",
+      "url": "https://www.geeksforgeeks.org/"
+    },
+    {
+      "name": "JavaTPoint",
+      "url": "https://www.javatpoint.com/"
+    },
+    {
+      "name": "W3Schools",
+      "url": "http://www.w3schools.com"
+    },
+    {
+      "name": "docs.djangoproject.com",
+      "url": "https://docs.djangoproject.com"
+    },
+    {
+      "name": "spring.io",
+      "url": "https://spring.io"
+    },
+    {
+      "name": "tailwindcss.com",
+      "url": "https://tailwindcss.com/"
+    },
+    {
+      "name": "coolors.co",
+      "url": "https://coolors.co"
+    },
+    {
+      "name": "ui.shadcn.com",
+      "url": "https://ui.shadcn.com"
+    },
+    {
+      "name": "getcssscan.com",
+      "url": "https://getcssscan.com"
+    },
+    {
+      "name": "neumorphism.io",
+      "url": "https://neumorphism.io"
+    },
+    {
+      "name": "animista.net",
+      "url": "https://animista.net"
+    },
+    {
+      "name": "loading.io",
+      "url": "https://loading.io"
+    },
+    {
+      "name": "openweathermap.org",
+      "url": "https://openweathermap.org"
+    },
+    {
+      "name": "netlify.com",
+      "url": "https://www.netlify.com/"
+    },
+    {
+      "name": "vercel.com",
+      "url": "https://vercel.com/"
+    }
+  ],
+  "youtubeChannels": [
+    {
+      "name": "Rajgopal Hota",
+      "url": "https://www.youtube.com/@VIBRANIUMGAMERFF"
+    },
+    {
+      "name": "CodeWithHarry",
+      "url": "https://www.youtube.com/@CodeWithHarry"
+    },
+    {
+      "name": "Amigoscode",
+      "url": "https://www.youtube.com/@amigoscode"
+    },
+    {
+      "name": "Aman Dhattarwal",
+      "url": "https://www.youtube.com/@AmanDhattarwal"
+    },
+    {
+      "name": "Apna College",
+      "url": "https://www.youtube.com/@ApnaCollegeOfficial"
+    },
+    {
+      "name": "Sheryians Coding School",
+      "url": "https://www.youtube.com/@thesheryianscodingschool"
+    },
+    {
+      "name": "Hitesh Choudhary",
+      "url": "https://www.youtube.com/@HiteshChoudharydotcom"
+    },
+    {
+      "name": "Love Babbar",
+      "url": "https://www.youtube.com/@LoveBabbar"
+    },
+    {
+      "name": "6 Pack Programmer",
+      "url": "https://www.youtube.com/@6PackProgrammer"
+    },
+    {
+      "name": "Piyush Garg",
+      "url": "https://www.youtube.com/@piyushgargdev"
+    },
+    {
+      "name": "David Bombal",
+      "url": "https://www.youtube.com/@davidbombal"
+    },
+    {
+      "name": "NetworkChuck",
+      "url": "https://www.youtube.com/@NetworkChuck"
+    },
+    {
+      "name": "Kevin Powell",
+      "url": "https://www.youtube.com/@KevinPowell"
+    },
+    {
+      "name": "BeerBiceps",
+      "url": "https://www.youtube.com/@BeerBiceps"
+    },
+    {
+      "name": "Sandeep Maheshwari",
+      "url": "https://www.youtube.com/@SandeepSeminars"
+    }
+  ]
+}

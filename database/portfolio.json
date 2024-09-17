@@ -1,0 +1,137 @@
+[
+  {
+    "img": "/assets/projects/images/12.gif",
+    "name": "Dynamic Travel Website - MERN",
+    "link": "https://vaayu-travels.netlify.app/",
+    "description": "A fully functional travel website allowing users to browse and book various destinations.",
+    "duration": "3 months",
+    "type": "Team",
+    "techStack": ["MongoDB", "Express", "React", "Node.js"]
+  },
+  {
+    "img": "/assets/projects/images/13.gif",
+    "name": "Social Media, Music, and Chatting - SQL & React",
+    "link": "https://github.com/rajgopalhota/Mystelio/",
+    "description": "An all-in-one social media platform supporting music sharing and real-time chat.",
+    "duration": "4 months",
+    "type": "Individual",
+    "techStack": ["SQL", "React", "Socket.io"]
+  },
+  {
+    "img": "/assets/projects/images/14.gif",
+    "name": "MERN App for RPA Club in KL University",
+    "link": "https://klrpa.netlify.app/",
+    "description": "A custom application developed for managing the activities of the RPA Club at KL University.",
+    "duration": "2 months",
+    "type": "Team",
+    "techStack": ["MongoDB", "Express", "React", "Node.js"]
+  },
+  {
+    "img": "/assets/projects/images/2.gif",
+    "name": "Autobots E-commerce - MERN",
+    "link": "https://autobot-production.vercel.app/",
+    "description": "An e-commerce platform featuring real-time stock updates and secure checkout.",
+    "duration": "5 months",
+    "type": "Team",
+    "techStack": ["MongoDB", "Express", "React", "Node.js"]
+  },
+  {
+    "img": "/assets/projects/images/15.gif",
+    "name": "Recipe Website - ReactJS",
+    "link": "https://spicemania.vercel.app/",
+    "description": "A website where users can browse, search, and share their favorite recipes.",
+    "duration": "1.5 months",
+    "type": "Individual",
+    "techStack": ["ReactJS", "API Integration"]
+  },
+  {
+    "img": "/assets/projects/images/3.gif",
+    "name": "Image Compressor",
+    "link": "https://image-compressor-black.vercel.app/",
+    "description": "An online tool to compress images while maintaining quality.",
+    "duration": "2 weeks",
+    "type": "Individual",
+    "techStack": ["JavaScript", "HTML5", "CSS3"]
+  },
+  {
+    "img": "/assets/projects/images/4.gif",
+    "name": "Hackathon Project - KL University (Django)",
+    "link": "https://github.com/rajgopalhota/",
+    "description": "A project created during a hackathon for the university, involving management tools.",
+    "duration": "24 hours (hackathon)",
+    "type": "Team",
+    "techStack": ["Django", "Bootstrap", "SQLite"]
+  },
+  {
+    "img": "/assets/projects/images/8.gif",
+    "name": "Banking with Vajra! JFSD",
+    "link": "https://vajra-bank.vercel.app/",
+    "description": "A secure banking website with user authentication and account management features.",
+    "duration": "3 months",
+    "type": "Team",
+    "techStack": ["Java", "Spring Boot", "ReactJS", "MySQL"]
+  },
+  {
+    "img": "/assets/projects/images/11.gif",
+    "name": "Secure Keys - Password Manager",
+    "link": "https://pass-manager-eight.vercel.app/",
+    "description": "A secure platform for managing passwords with encryption.",
+    "duration": "2 months",
+    "type": "Individual",
+    "techStack": ["ReactJS", "Node.js", "MongoDB"]
+  },
+  {
+    "img": "/assets/projects/images/10.gif",
+    "name": "Secure Keys - Password Generator - FLASK",
+    "link": "https://pass-gen-kappa-lime.vercel.app/",
+    "description": "A tool for generating secure passwords based on user preferences.",
+    "duration": "1 month",
+    "type": "Individual",
+    "techStack": ["Python", "Flask", "JavaScript"]
+  },
+  {
+    "img": "/assets/projects/images/6.gif",
+    "name": "Phoenix News - React",
+    "link": "https://github.com/rajgopalhota/Phoenix-News-News-API-.git",
+    "description": "A news platform that fetches the latest articles using a public news API.",
+    "duration": "1 month",
+    "type": "Individual",
+    "techStack": ["ReactJS", "API Integration", "CSS3"]
+  },
+  {
+    "img": "/assets/projects/images/7.gif",
+    "name": "Currency Converter",
+    "link": "https://currency-converter-omega-roan.vercel.app/",
+    "description": "A web app that allows users to convert currencies based on live exchange rates.",
+    "duration": "2 weeks",
+    "type": "Individual",
+    "techStack": ["ReactJS", "API Integration", "JavaScript"]
+  },
+  {
+    "img": "/assets/projects/images/9.gif",
+    "name": "Weather App",
+    "link": "https://weather-api-delta-nine.vercel.app/",
+    "description": "A simple weather application that fetches real-time weather data using a public API.",
+    "duration": "2 weeks",
+    "type": "Individual",
+    "techStack": ["ReactJS", "API Integration", "CSS"]
+  },
+  {
+    "img": "/assets/projects/images/1.gif",
+    "name": "Taxi Service - Django",
+    "link": "https://github.com/rajgopalhota/SDP01",
+    "description": "A Django-based taxi booking service where users can book rides.",
+    "duration": "3 months",
+    "type": "Team",
+    "techStack": ["Django", "SQLite", "Bootstrap"]
+  },
+  {
+    "img": "/assets/projects/images/5.gif",
+    "name": "Flight Booking - Enterprise Programming",
+    "link": "https://github.com/rajgopalhota/EP-Project",
+    "description": "A flight booking application created for an enterprise programming course.",
+    "duration": "3 months",
+    "type": "Team",
+    "techStack": ["Java", "Spring Boot", "MySQL"]
+  }
+]

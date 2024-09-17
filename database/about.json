@@ -1,0 +1,150 @@
+{
+  "aboutDetails": [
+    {
+      "text": "Intern at Barclays - Pune 2024"
+    },
+    {
+      "text": "JPMC Hackathon winner - Hyderabad 2024"
+    },
+    {
+      "text": "Full-stack developer, streamlined KL University hackathons with Django."
+    },
+    {
+      "text": "Led teams to build impactful E-commerce & travel platforms (MERN, Spring Boot)."
+    },
+    {
+      "text": "Strong problem-solver (3-star Codechef, Specialist Codeforces, Leetcode badges)."
+    }
+  ],
+  "personalInfo": [
+    {
+      "label": "age",
+      "value": "2003-07-05"
+    },
+    {
+      "label": "gender",
+      "value": "male"
+    },
+    {
+      "label": "language",
+      "value": "Hindi, English, Oriya, Telugu"
+    },
+    {
+      "label": "work",
+      "value": "Student"
+    }
+  ],
+  "contactInfo": [
+    {
+      "label": "freelance",
+      "value": "available"
+    },
+    {
+      "label": "Instagram",
+      "value": "@rajgopal.hota",
+      "link": "https://www.instagram.com/rajgopal.hota/"
+    },
+    {
+      "label": "email",
+      "value": "rajgopalhota@gmail.com"
+    },
+    {
+      "label": "country",
+      "value": "India"
+    }
+  ],
+  "skillsData": [
+    {
+      "title": "Competitive Programming",
+      "icon": "fa-solid fa-code",
+      "percentage": "78%"
+    },
+    {
+      "title": "Full Stack Web Development",
+      "icon": "fa-brands fa-react",
+      "percentage": "80%"
+    },
+    {
+      "title": "Cyber Security",
+      "icon": "fa-solid fa-user-shield",
+      "percentage": "75%"
+    },
+    {
+      "title": "Database",
+      "icon": "fa-solid fa-server",
+      "percentage": "80%"
+    }
+  ],
+  "educationData": [
+    {
+      "institution": "KL University",
+      "logo": "https://pbs.twimg.com/profile_images/964884316563030016/aOT4DBDL_400x400.jpg",
+      "score": "9.81 CGPA",
+      "location": "Vijayawada, AP",
+      "duration": "2021 - 2025"
+    },
+    {
+      "institution": "Narayana Jr College",
+      "logo": "https://th.bing.com/th/id/OIP.jul8i_4zYTc976lRmIiLtgHaHa?rs=1&pid=ImgDetMain",
+      "score": "950 marks",
+      "location": "Singapore City, TG",
+      "duration": "2019 - 2021"
+    },
+    {
+      "institution": "Presidency High School",
+      "logo": "https://png.pngtree.com/png-clipart/20230330/original/pngtree-school-and-education-logo-design-template-png-image_9012676.png",
+      "score": "9.5 CGPA",
+      "location": "Yadagirigutta, TG",
+      "duration": "Up to 2019"
+    },
+    {
+      "institution": "Samavedam from my Dad",
+      "logo": "https://play-lh.googleusercontent.com/KuDjUaM_s9HIgXKKQ8hz5vpdohAHKaBkcmpNsBDzI_xGh04bm5n4B6_PH7zcC6mJll4",
+      "score": "Samhita",
+      "location": "Home",
+      "duration": "2013 - 2018"
+    }
+  ],
+  "workData": [
+    {
+      "institution": "JP Morgan",
+      "logo": "https://media2.vault.com/14343503/210909_jp-morgan_logo.jpg",
+      "location": "Hyderabad, TG",
+      "duration": "2024",
+      "score": "Won the Code for Good hackathon and got the FTE offer with a CTC of 19.75 LPA"
+    },
+    {
+      "institution": "Barclays",
+      "logo": "https://logodix.com/logo/435519.jpg",
+      "location": "Pune, MH",
+      "duration": "2 Months",
+      "score": "Worked as a tech intern and got the PPO with a CTC of 13.8 LPA"
+    }
+  ],
+  "cardData": [
+    {
+      "title": "2",
+      "description": "years of experience"
+    },
+    {
+      "title": "3",
+      "description": "happy clients"
+    },
+    {
+      "title": "10+",
+      "description": "projects completed"
+    },
+    {
+      "title": "1+",
+      "description": "awards won"
+    },
+    {
+      "title": "1",
+      "description": "Website for university"
+    },
+    {
+      "title": "4",
+      "description": "Global certifications"
+    }
+  ]
+}
