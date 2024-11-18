@@ -1,4 +1,3 @@
----
 
 ### **React Interview Questions**
 1. **What is React? Why is it used?**  
